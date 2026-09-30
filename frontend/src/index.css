@@ -1,0 +1,7 @@
+.react-resizable-handle {
+  background: none;
+}
+
+.ant-table-thead > tr > th .react-resizable-handle:hover {
+  background-color: rgba(0, 0, 0, 0.12);
+}
